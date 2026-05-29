@@ -38,7 +38,7 @@ All backend calls go through `src/services/apiClient.js`.
 Set the backend URL in `.env`:
 
 ```text
-VITE_API_BASE_URL=http://localhost:8080/api
+VITE_API_URL=http://localhost:8080/api
 ```
 
 Service files:

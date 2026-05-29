@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-The app runs at `http://localhost:3000` and calls the backend at `VITE_API_BASE_URL`.
+The app runs at `http://localhost:3000` and calls the backend at `VITE_API_URL`.
 
 ## Main Folders
 
