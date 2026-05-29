@@ -1,0 +1,1 @@
+import{j as s}from"./index-CmK9Cohw.js";function t({label:i,id:a,error:l,as:n="input",...e}){const m=n;return s.jsxs("div",{className:"mb-3",children:[s.jsx("label",{htmlFor:a,className:"form-label fw-semibold",children:i}),s.jsx(m,{id:a,className:`form-control ${l?"is-invalid":""}`,...e}),l&&s.jsx("div",{className:"invalid-feedback",children:l})]})}export{t as F};

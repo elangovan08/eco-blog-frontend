@@ -1,0 +1,1 @@
+import{j as e,a as t}from"./index-CmK9Cohw.js";function a(){return e.jsxs("div",{className:"container py-5 text-center",children:[e.jsx("h1",{className:"page-title",children:"Page Not Found"}),e.jsx("p",{className:"text-muted-eco",children:"The page you requested does not exist."}),e.jsx(t,{className:"btn btn-eco",to:"/",children:"Go Home"})]})}export{a as default};
